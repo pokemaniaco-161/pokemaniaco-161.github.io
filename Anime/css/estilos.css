@@ -6,7 +6,7 @@ div.cuerpo{width:97%; height:70px; background-color:black; margin:auto; font-siz
 div.zonatexto{width:97%; background-color:#CACACA; margin:auto;}
 div#menu1{width:97%; height:60px; margin:auto; background-color:gray;}
 div#menu{width:97%; height:60px; margin:auto; background-color:gray;}
-div.pags{float:left; width:100%; height:60px; text-align:center; line-height:50px; border:2px solid black; font-size:1.5em;}
+div.pags{float:left; width:50%; height:60px; text-align:center; line-height:50px; border:2px solid black; font-size:1.5em;}
 div.pags a{text-decoration:none; color:black;}
 div.pags:hover{background-color:white;}
 a.links{text-decoration:none; color:black;}
@@ -27,7 +27,8 @@ div.enlaces{background-color:#EEE8E7; border: 3px solid black;}
 {--------------------------------------------------.INICIO.--------------------------------------------------}
 li.titulotablainicio{margin-left:25px; font-size:1.2em; font-weight:bold;}
 li.tablainicio{list-style-position:inside; font-size:0.8em; font-weight:none;}
-div.izquierdainicio{margin:20px; width:300px; float:left;}
+div.verinicio{margin:1.5%; width:300px; float:left;}
+div.descargarinicio{margin:1.5%; width:300px; float:right;}
 
 
 {--------------------------------------------.PAGINAS CON VIDEOS.--------------------------------------------}
