@@ -25,9 +25,9 @@ div#piepagina{background-color:#333 ;width:97%; height:60px; padding:5px; text-a
 div.enlaces{background-color:#EEE8E7; border: 3px solid black;}
 
 {--------------------------------------------------.INICIO.--------------------------------------------------}
-li.titulotablainicio{font-size:1.2em; font-weight:bold;}
+li.titulotablainicio{margin-left:25px; font-size:1.2em; font-weight:bold;}
 li.tablainicio{list-style-position:inside; font-size:0.8em; font-weight:none;}
-div.izquierdainicio{margin:20px; width:450px; float:left;}
+div.izquierdainicio{margin:20px; width:300px; float:left;}
 
 
 {--------------------------------------------.PAGINAS CON VIDEOS.--------------------------------------------}
