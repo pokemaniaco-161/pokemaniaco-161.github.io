@@ -27,8 +27,8 @@ div.enlaces{background-color:#EEE8E7; border: 3px solid black;}
 {--------------------------------------------------.INICIO.--------------------------------------------------}
 li.titulotablainicio{margin-left:25px; font-size:1.2em; font-weight:bold;}
 li.tablainicio{list-style-position:inside; font-size:0.8em; font-weight:none;}
-div.verinicio{margin:1.5%; width:500px; float:left;}
-div.descargarinicio{margin:1.5%; width:500px; float:right;}
+div.verinicio{margin:1.5%; width:450px; float:left;}
+div.descargarinicio{margin:1.5%; width:450px; float:right;}
 
 
 {--------------------------------------------.PAGINAS CON VIDEOS.--------------------------------------------}
