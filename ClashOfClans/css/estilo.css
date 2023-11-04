@@ -29,20 +29,13 @@ a.whatsapp:hover{text-decoration:none; color:orange;}
 a.whatsapp:visited{text-decoration:none; color:green;}
 a.whatsapp:active{text-decoration:none; color:blue;}
 
-
-
 div.enlaces{background-color:#EEE8E7; border: 3px solid black;}
 
 	{--------------------------------------------------.BASES.--------------------------------------------------}
 img.imagenesjuegos{width:410px; height:220px; margin:5px;}
 img.imagenesjuegos2{width:410px; height:220px; margin:5px;}
-.nodisponible1{float:left; margin-left:300px;}
-.nodisponible2{float:left; margin-left:220px;}
-.nodisponible3{float:left; margin-left:450px;}
-.nodisponible4{float:left; margin-left:900px;}
 .clickimagen{color:white; font-size:2em;}
 .titulaso{text-align:center;}
-
 
 .cerrar{width: 50px; height: 50px; float: right; margin-right: 1%; cursor: pointer;}
 
